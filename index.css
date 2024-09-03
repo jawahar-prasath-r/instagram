@@ -1,0 +1,174 @@
+.body-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0.89%;
+  bottom: 0;
+  left: 0.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bottom,
+.left-bottom,
+.left-top,
+.right,
+.right-bottom {
+  position: absolute;
+  height: 0.69%;
+  width: 1.33%;
+  top: 99.31%;
+  right: 78.5%;
+  bottom: 0;
+  left: 20.17%;
+  background-color: var(--color-steelblue-200);
+}
+.left-bottom,
+.left-top,
+.right,
+.right-bottom {
+  height: 0.56%;
+  width: 1.41%;
+  top: 89.4%;
+  right: 98.59%;
+  bottom: 10.04%;
+  left: 0;
+}
+.left-top,
+.right,
+.right-bottom {
+  height: 0.81%;
+  width: 1.49%;
+  top: 10.08%;
+  right: 98.51%;
+  bottom: 89.11%;
+}
+.right,
+.right-bottom {
+  height: 0.56%;
+  top: 89.4%;
+  right: 0;
+  bottom: 10.04%;
+  left: 98.51%;
+}
+.right {
+  height: 0.77%;
+  top: 10.12%;
+  bottom: 89.11%;
+}
+.antennas,
+.top {
+  position: absolute;
+  top: 0;
+}
+.top {
+  height: 0.69%;
+  width: 1.57%;
+  right: 19.93%;
+  bottom: 99.31%;
+  left: 78.5%;
+  background-color: var(--color-steelblue-200);
+}
+.antennas {
+  height: 100%;
+  width: 100%;
+  right: 0.89%;
+  bottom: 0;
+  left: 0.98%;
+  z-index: 1;
+}
+.button,
+.button1,
+.power-button,
+.silence-button {
+  position: absolute;
+  height: 31.58%;
+  width: 0.98%;
+  top: 68.38%;
+  right: 99.02%;
+  bottom: 0.04%;
+  left: 0;
+  box-shadow: 0-1.2px 0#9f9fc5 inset, 0 1.2px 0#9f9fc5 inset,
+    0 3.2px 0.8px #41423c inset, 0-3.2px 0.8px #41423c inset,
+    -2px 0 1.61px #9f9fc5 inset, -2px 0 0#dadbd6 inset;
+  border-radius: 1.61px;
+  background-color: var(--color-steelblue-100);
+  border: 0.6px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.button1,
+.power-button,
+.silence-button {
+  height: 31.9%;
+  top: 29.78%;
+  bottom: 38.32%;
+}
+.power-button,
+.silence-button {
+  height: 17.17%;
+  top: 0;
+  bottom: 82.83%;
+}
+.power-button {
+  height: 48.42%;
+  top: 40.4%;
+  right: 0;
+  bottom: 11.18%;
+  left: 99.02%;
+}
+.buttons,
+.front-camera-icon {
+  position: absolute;
+  height: 24.73%;
+  width: 100%;
+  top: 19.34%;
+  right: 0;
+  bottom: 55.93%;
+  left: 0;
+  z-index: 2;
+}
+.front-camera-icon {
+  height: 3.28%;
+  width: 24.49%;
+  top: 3.4%;
+  right: 37.93%;
+  bottom: 93.33%;
+  left: 37.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-speaker {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: -1.3px 0 0#2a2a2a inset, 1.3px 0 0#2a2a2a inset,
+    0 0 2.1px 0.42px #000 inset;
+  border-radius: 12.58px;
+  background-color: #141414;
+  border: 0.4px solid #0e0e0e;
+  box-sizing: border-box;
+}
+.notch {
+  position: absolute;
+  height: 0.68%;
+  width: 14.25%;
+  top: 0.89%;
+  right: 42.93%;
+  bottom: 98.43%;
+  left: 42.83%;
+  z-index: 2;
+}
+.feed {
+  width: 492px;
+  height: 1013px;
+  max-width: 100%;
+  line-height: normal;
+  letter-spacing: normal;
+}
